@@ -44,6 +44,16 @@ repositories:
       url: https://github.com/ros/actionlib.git
       version: noetic-devel
     status: maintained
+  ancube_ros:
+    doc:
+      type: git
+      url: https://github.com/SweiLz/ancube_ros.git
+      version: master
+    source:
+      type: git
+      url: https://github.com/SweiLz/ancube_ros.git
+      version: master
+    status: maintained
   angles:
     doc:
       type: git
